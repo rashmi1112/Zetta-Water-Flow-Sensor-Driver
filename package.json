@@ -14,7 +14,7 @@
     "edison",
     "IoT"
   ],
-  "author": "Anil Sagar <anil614sagar@gmail.com> (https://in.linkedin.com/in/anilsagar/)",
+  "author": "Rashmi Badadale <rashmibadadale@gmail.com> (https://in.linkedin.com/in/anilsagar/)",
   "license": "MIT",
   "dependencies": {
     "mraa-js": "^0.1.0",
