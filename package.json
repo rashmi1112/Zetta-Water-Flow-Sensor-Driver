@@ -1,0 +1,24 @@
+{
+  "name": "zetta-water-flow-sensor-g0.5-edison-driver",
+  "version": "0.1.0",
+  "description": "Zetta Water Flow Sensor G 1/2\" driver for use on intel edison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta",
+    "water",
+    "flow",
+    "sensor",
+    "edison",
+    "IoT"
+  ],
+  "author": "Anil Sagar <anil614sagar@gmail.com> (https://in.linkedin.com/in/anilsagar/)",
+  "license": "MIT",
+  "dependencies": {
+    "mraa-js": "^0.1.0",
+    "zetta-auto-scout": "^0.8.0",
+    "zetta-device": "^0.11.0"
+  }
+}
