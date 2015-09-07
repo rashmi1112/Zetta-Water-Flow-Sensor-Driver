@@ -11,7 +11,7 @@ var LED = require('Zetta-Water-Flow-Sensor-Driver');
 
 zetta()
   .name('Firstname-Lastname')
-  .use(WaterFlowSensor,15)
+  .use(WaterFlowSensor,2)
   .listen(1337, function(){
      console.log('Zetta is running..');
 });
